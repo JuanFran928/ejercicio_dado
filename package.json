@@ -20,5 +20,9 @@
     "vite": "^2.5.4"
   },
   "keywords": [],
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6"
+  }
 }
